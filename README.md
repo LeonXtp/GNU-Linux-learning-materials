@@ -1,6 +1,12 @@
 # GNU-Linux-learning-materials
----
 
-useful links:
-- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
-- [auspbro/ebook-linux](https://github.com/auspbro/ebook-linux)
+##### Useful links:
+
+- ebook collections:
+  - [auspbro/ebook-linux](https://github.com/auspbro/ebook-linux)
+  - [yangtong/ebooks](https://github.com/yangtong/ebooks)
+  - [MrAlex6204/Books](https://github.com/MrAlex6204/Books)
+- online resources:
+  - [鸟哥的Linux私房菜](http://cn.linux.vbird.org/)
+  - [Bash scripting cheatsheet](https://devhints.io/bash)
+  - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
