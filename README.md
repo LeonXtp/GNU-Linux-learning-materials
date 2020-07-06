@@ -10,3 +10,4 @@
   - [鸟哥的Linux私房菜](http://cn.linux.vbird.org/)
   - [Bash scripting cheatsheet](https://devhints.io/bash)
   - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
+  - [ShellCheck](https://www.shellcheck.net/): finds bugs in your shell scripts. 
